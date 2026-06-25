@@ -54,8 +54,9 @@ Mobile UI/UX design for Lagos waste management — gamified recycling loyalty re
 [View prototype →](https://www.figma.com/proto/CLtOGZqaZUtpuU82QVtuEh/My-Portfolio?page-id=0%3A1&node-id=75-8055&scaling=scale-down&content-scaling=fixed&starting-point-node-id=75%3A8055)
 `Figma` `Mobile UX` `Prototyping`
 
-**CWWTechAfrica Chatbot** *(link coming soon)*
-Conversational UI chatbot design for CWWTechAfrica — flows, component system, and interactive prototype in Figma.
+**[CWWTechAfrica Chatbot](https://github.com/KordbamTech/cwwtechafrica-chatbot-design)**
+Conversational UI chatbot design for CWWTechAfrica — structured message flows, quick-reply chips, and accessible design for a tech education platform across Africa.
+[View in Figma →](https://www.figma.com/design/CLtOGZqaZUtpuU82QVtuEh/My-Portfolio?node-id=75-7973)
 `Figma` `Conversational UI` `UX`
 
 ---
