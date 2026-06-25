@@ -27,6 +27,15 @@ Dual-channel ADC signal acquisition at 8 kHz on ARM Cortex-M4, with waveform cla
 
 ---
 
+### 🔌 PCB Design & Autonomous Systems
+
+**[Embedded Autonomy: PCB Design + Mbot Navigation](https://github.com/KordbamTech/embedded-autonomy-pcb-navigation)**
+Custom single-sided PCB designed in KiCad 9.0 — ESP32 (3.3 V) + Arduino Nano (5 V) integrated via I²C for ultrasonic-driven servo actuation, with voltage divider for signal compatibility. Paired with a reactive Mbot maze-navigation algorithm (C++) using differential drive and iteratively tuned 27 cm detection threshold.
+[Gerber Files →](https://drive.google.com/drive/folders/1jYyeZvbVPZa_TIY3Xi6mqMlGaH67ixl4?usp=sharing)
+`KiCad` `ESP32` `Arduino` `C++` `I²C` `PCB`
+
+---
+
 ### 🥽 XR & VR (Unity)
 
 **Smart Apartment AR** *(coming soon)*
@@ -113,7 +122,7 @@ Interactive 3D portfolio site built with Babylon.js — a rotating digital globe
 | Domain | Tools |
 |--------|-------|
 | XR & 3D | Unity, Babylon.js, AR Foundation, C# |
-| Embedded | STM32, ESP32, Arduino, MISRA-C, Node-RED |
+| Embedded & PCB | STM32, ESP32, Arduino, KiCad, MISRA-C, Node-RED |
 | AI & Data | Python, LightGBM, SHAP, MATLAB, Power BI |
 | Design | Figma (UI/UX, prototyping, component systems) |
 | Mobile & Web | Flutter/Dart, TypeScript, Vite |
